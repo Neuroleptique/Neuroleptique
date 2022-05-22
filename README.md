@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neuroleptique</h1>
-<h3 align="center">A passionate full-stack web developer transitioning from healthcare</h3>
+<h3 align="center">A passionate full-stack web developer at 100Devs</h3>
 
-- 🌱 I’m currently learning **JavaScript, Node.js**
+- 💻 We build modern and responsive web applications using the best practices
+
+- 🌱 I’m currently learning **Object Oriented Programming(OOP), Node.js**
 
 - 👨‍💻 All of my projects are available at [https://christinehsiao.netlify.app/](https://christinehsiao.netlify.app/)
 
