@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neuroleptique</h1>
+<h1 align="center">Hi 👋, I'm Christine Hsiao</h1>
 <h3 align="center">A passionate full-stack web developer at 100Devs</h3>
 
 - 💻 We build modern and responsive web applications using the best practices
