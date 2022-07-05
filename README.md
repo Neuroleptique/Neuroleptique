@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christine Hsiao</h1>
 <h3 align="center">A passionate full-stack web developer at 100Devs</h3>
 
-- 💻 We build modern and responsive web applications using the best practices
+- 💻 I build modern and responsive web applications using the best practices
 
-- 🌱 I’m currently learning **Object Oriented Programming(OOP), Node.js**
+- 🌱 I’m currently learning **Node.js & Express**
 
 - 👨‍💻 All of my projects are available at [https://christinehsiao.netlify.app/](https://christinehsiao.netlify.app/)
 
