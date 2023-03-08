@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Christine Hsiao</h1>
-<h3 align="center">A passionate full-stack web developer at 100Devs</h3>
+<h3 align="center">I'm a former registered nurse turned full-stack software developer with a passion for building user friendly software solutions that improve people's lives.</h3>
 
-- 💻 I build modern and responsive web applications using the best practices
+- 💪 Highly skilled in effective communication, continuous learning, working well in a team, adapting in fast-paced environments, critical thinking, and problem-solving. Eager to take on new challenges and make meaningful contributions to tech projects.
+
+- 💻 I build modern and responsive full-stack web applications using the best practices
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://christinehsiao.netlify.app/](https://christinehsiao.netlify.app/)
+
+- 🎮 Outside of work, I enjoy hiking, sewing, video-gaming and spending time with my kid.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
