@@ -5,7 +5,7 @@
 
 - 💻 I build modern and responsive full-stack web applications using the best practices
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning and Python**
 
 - 👨‍💻 All of my projects are available at [https://christinehsiao.netlify.app/](https://christinehsiao.netlify.app/)
 
